@@ -1,8 +1,16 @@
-#Based on Multiple Gift Card Generator 2.0
-
 #setup
 import time
 import random
+
+ print(pyfade.Fade.Horizontal(pyfade.Colors.green_to_red, """
+   V. 0.9 Alpha (January 13th 2022)
+
+███████╗██████╗░  ░██████╗░███████╗███╗░░██╗
+██╔════╝██╔══██╗  ██╔════╝░██╔════╝████╗░██║
+█████╗░░██████╔╝  ██║░░██╗░█████╗░░██╔██╗██║
+██╔══╝░░██╔══██╗  ██║░░╚██╗██╔══╝░░██║╚████║
+███████╗██║░░██║  ╚██████╔╝███████╗██║░╚███║
+╚══════╝╚═╝░░╚═╝  ░╚═════╝░╚══════╝╚═╝░░╚══╝
 
 #functions
 def g(rolls):
